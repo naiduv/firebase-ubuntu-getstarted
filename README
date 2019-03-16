@@ -1,4 +1,5 @@
 # Getting started with Firebase on Ubuntu
 
 A collection of scripts that can be used to easily get started with Firebase on Ubuntu.
+These were created from the tutorial notes available [here](https://cloud.google.com/appengine/docs/standard/python/authenticating-users-firebase-appengine)
 
